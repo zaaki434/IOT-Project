@@ -7,8 +7,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // Replace with your network credentials
-const char* ssid = "GL-NOVA";
-const char* password = "cardinall";
+const char* ssid = "Wifi_SSID";
+const char* password = "Wifi_Password";
 
 // Time zone offset in seconds for WIB (UTC+7)
 const long GMT_OFFSET_SEC = 7 * 3600;
